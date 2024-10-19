@@ -14,15 +14,15 @@ const movieData = [
 
   
   {
-      // id: 2,
-    // title: " Link Not Available",
-    // fileSize: "",
-    // format: "",
-    // resolution: "",
-    // subtitles: [""],
-    // low: "https://drive.google.com/open?id=1ZvUsrDfCZBvyX6xpzgj70rA_Jib11q0z",
-    // mid: "https://drive.google.com/open?id=1ZvUsrDfCZBvyX6xpzgj70rA_Jib11q0z",
-    // high: "https://drive.google.com/open?id=1ZvUsrDfCZBvyX6xpzgj70rA_Jib11q0z",
+      id: 2,
+    title: "Devara Full Movie",
+    fileSize: "1.2GB",
+    format: "MP4",
+    resolution: "720p, 1080p",
+    subtitles: ["Hindi"],
+    low: "https://pixeldra.in/api/file/jF6uMg45?download",
+    mid: "https://pixeldra.in/api/file/jF6uMg45?download",
+    high: "https://link.pocolinks.com/N4uvQr",
   },
 
   {

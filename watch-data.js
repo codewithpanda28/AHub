@@ -1,10 +1,10 @@
-// const movieData = [
-//     { 
-//         id: 1, 
-//         title: "G.O.A.T Movie", 
-//         // videoLink: "https://vidhideplus.com/embed/egj713udpq2a",
-//         description: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
-//     },
+const movieData = [
+    { 
+        id: 1, 
+        title: "G.O.A.T Movie", 
+        videoLink: "https://vidhideplus.com/embed/egj713udpq2a",
+        description: "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
 //     { 
 //         id: 2, 
 //         title: "Devara , Full Movie",
@@ -59,4 +59,4 @@
 //         // videoLink: "https://hdstream4u.com/file/or29mgqcqnx3",
 //         description: "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
 //     }
-// ];
+];
