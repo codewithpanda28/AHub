@@ -2,11 +2,11 @@ const movieData = [
   {
     id: 1,
     title: " G.O.A.T , Full Movie",
-    fileSize: "",
-    format: "",
-    resolution: "",
-    subtitles: [""],
-    low: "https://tinyurl.com/243fjwfy",
+    fileSize: ["2GB", "7.4GB"],
+    format: "MP4",
+    resolution: ["720p", "1080p"],
+    subtitles: ["Hindi"],
+    low: "File is not available",
     mid: "https://tinyurl.com/243fjwfy",
     high: "https://link.pocolinks.com/fhvVduK",
     
